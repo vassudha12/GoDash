@@ -1,4 +1,5 @@
 # [GoDash]
+customized for Gupta Overseas - [https://www.guptaoverseas.com/] 
 
 
 GoDash is our newest free MUI Admin Analytics Dashboard Template based on React made for gupta overseas.Our innovative MUI & React dashboard comes with a beautiful design inspired by Google's Material Design.
@@ -21,21 +22,6 @@ During the development of this dashboard, we have used many existing resources f
 - [React ChartJS 2](http://reactchartjs.github.io/react-chartjs-2/#/) - Simple yet flexible React charting for designers & developers.
 - [ChromaJS](https://gka.github.io/chroma.js/) - A small-ish zero-dependency JavaScript library for all kinds of color conversions and color scales.
 
-Let us know your thoughts below. And good luck with development!
-
-## Table of Contents
-
-- [Versions](#versions)
-- [Demo](#demo)
-- [Quick Start](#quick-start)
-- [Documentation](#documentation)
-- [File Structure](#file-structure)
-- [Browser Support](#browser-support)
-- [Resources](#resources)
-- [Reporting Issues](#reporting-issues)
-- [Technical Support or Questions](#technical-support-or-questions)
-- [Licensing](#licensing)
-- [Useful Links](#useful-links)
 
 ## Terminal Commands
 
