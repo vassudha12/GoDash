@@ -1,6 +1,12 @@
 # [GoDash]
 customized for Gupta Overseas - [https://www.guptaoverseas.com/] 
 
+please use
+git branch -m master main
+git fetch origin
+git branch -u origin/main main
+git remote set-head origin -a
+
 
 GoDash is our newest free MUI Admin Analytics Dashboard Template based on React made for gupta overseas.Our innovative MUI & React dashboard comes with a beautiful design inspired by Google's Material Design.
 
